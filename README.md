@@ -152,7 +152,7 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/188bcfc9-785f-42b3-8b2b-306f2e89f2cc" />
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/0d74673b-5b54-41bd-9f33-c17e2f50a7b7" />
 
 
 ## RESULT
